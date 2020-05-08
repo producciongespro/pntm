@@ -1,0 +1,444 @@
+
+---Downloaded files---
+The import files for: Di Restaurant Demo Site were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/pntm
+Data file = C:/prueba/www/pntm/wp-content/plugins/di-themes-demo-site-importer/inc/di-themes/di-restaurant/files/demo-content.xml
+Widget file = C:/prueba/www/pntm/wp-content/plugins/di-themes-demo-site-importer/inc/di-themes/di-restaurant/files/widgets.wie
+Customizer file = C:/prueba/www/pntm/wp-content/plugins/di-themes-demo-site-importer/inc/di-themes/di-restaurant/files/customizer.dat
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import product_tag Beans
+[WARNING] Failed to import product_tag Bread
+[WARNING] Failed to import product_cat Break Fast
+[WARNING] Failed to import product_tag Burger
+[WARNING] Failed to import product_cat Chiness
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Donuts
+[WARNING] Failed to import product_tag Dosa
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_tag Duck
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Idli
+[WARNING] Failed to import product_tag Indian
+[WARNING] Failed to import product_cat Lunch
+[WARNING] Failed to import product_tag Masala
+[WARNING] Failed to import product_tag Mater
+[WARNING] Failed to import product_tag Noodles
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Paneer
+[WARNING] Failed to import product_tag Pizza
+[WARNING] Failed to import product_tag Poha
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Rice
+[WARNING] Failed to import product_tag Roasted
+[WARNING] Failed to import product_tag Sandwitch
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Soup
+[WARNING] Failed to import product_tag Tea
+[WARNING] Failed to import product_tag Thali
+[WARNING] Failed to import product_tag Tomato
+[WARNING] Failed to import product_tag Upma
+[WARNING] Failed to import product_type variable
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import product_tag Beans
+[WARNING] Failed to import product_tag Bread
+[WARNING] Failed to import product_cat Break Fast
+[WARNING] Failed to import product_tag Burger
+[WARNING] Failed to import product_cat Chiness
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Donuts
+[WARNING] Failed to import product_tag Dosa
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_tag Duck
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Idli
+[WARNING] Failed to import product_tag Indian
+[WARNING] Failed to import product_cat Lunch
+[WARNING] Failed to import product_tag Masala
+[WARNING] Failed to import product_tag Mater
+[WARNING] Failed to import product_tag Noodles
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Paneer
+[WARNING] Failed to import product_tag Pizza
+[WARNING] Failed to import product_tag Poha
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Rice
+[WARNING] Failed to import product_tag Roasted
+[WARNING] Failed to import product_tag Sandwitch
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Soup
+[WARNING] Failed to import product_tag Tea
+[WARNING] Failed to import product_tag Thali
+[WARNING] Failed to import product_tag Tomato
+[WARNING] Failed to import product_tag Upma
+[WARNING] Failed to import product_type variable
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import product_tag Beans
+[WARNING] Failed to import product_tag Bread
+[WARNING] Failed to import product_cat Break Fast
+[WARNING] Failed to import product_tag Burger
+[WARNING] Failed to import product_cat Chiness
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Donuts
+[WARNING] Failed to import product_tag Dosa
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_tag Duck
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Idli
+[WARNING] Failed to import product_tag Indian
+[WARNING] Failed to import product_cat Lunch
+[WARNING] Failed to import product_tag Masala
+[WARNING] Failed to import product_tag Mater
+[WARNING] Failed to import product_tag Noodles
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Paneer
+[WARNING] Failed to import product_tag Pizza
+[WARNING] Failed to import product_tag Poha
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Rice
+[WARNING] Failed to import product_tag Roasted
+[WARNING] Failed to import product_tag Sandwitch
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Soup
+[WARNING] Failed to import product_tag Tea
+[WARNING] Failed to import product_tag Thali
+[WARNING] Failed to import product_tag Tomato
+[WARNING] Failed to import product_tag Upma
+[WARNING] Failed to import product_type variable
+
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import product_tag Beans
+[WARNING] Failed to import product_tag Bread
+[WARNING] Failed to import product_cat Break Fast
+[WARNING] Failed to import product_tag Burger
+[WARNING] Failed to import product_cat Chiness
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Donuts
+[WARNING] Failed to import product_tag Dosa
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_tag Duck
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Idli
+[WARNING] Failed to import product_tag Indian
+[WARNING] Failed to import product_cat Lunch
+[WARNING] Failed to import product_tag Masala
+[WARNING] Failed to import product_tag Mater
+[WARNING] Failed to import product_tag Noodles
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Paneer
+[WARNING] Failed to import product_tag Pizza
+[WARNING] Failed to import product_tag Poha
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Rice
+[WARNING] Failed to import product_tag Roasted
+[WARNING] Failed to import product_tag Sandwitch
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Soup
+[WARNING] Failed to import product_tag Tea
+[WARNING] Failed to import product_tag Thali
+[WARNING] Failed to import product_tag Tomato
+[WARNING] Failed to import product_tag Upma
+[WARNING] Failed to import product_type variable
+
+
+------
+Completed AJAX call number: 5
+[WARNING] Failed to import product_tag Beans
+[WARNING] Failed to import product_tag Bread
+[WARNING] Failed to import product_cat Break Fast
+[WARNING] Failed to import product_tag Burger
+[WARNING] Failed to import product_cat Chiness
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Donuts
+[WARNING] Failed to import product_tag Dosa
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_tag Duck
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Idli
+[WARNING] Failed to import product_tag Indian
+[WARNING] Failed to import product_cat Lunch
+[WARNING] Failed to import product_tag Masala
+[WARNING] Failed to import product_tag Mater
+[WARNING] Failed to import product_tag Noodles
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Paneer
+[WARNING] Failed to import product_tag Pizza
+[WARNING] Failed to import product_tag Poha
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Rice
+[WARNING] Failed to import product_tag Roasted
+[WARNING] Failed to import product_tag Sandwitch
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Soup
+[WARNING] Failed to import product_tag Tea
+[WARNING] Failed to import product_tag Thali
+[WARNING] Failed to import product_tag Tomato
+[WARNING] Failed to import product_tag Upma
+[WARNING] Failed to import product_type variable
+
+
+------
+Completed AJAX call number: 6
+[WARNING] Failed to import product_tag Beans
+[WARNING] Failed to import product_tag Bread
+[WARNING] Failed to import product_cat Break Fast
+[WARNING] Failed to import product_tag Burger
+[WARNING] Failed to import product_cat Chiness
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Donuts
+[WARNING] Failed to import product_tag Dosa
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_tag Duck
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Idli
+[WARNING] Failed to import product_tag Indian
+[WARNING] Failed to import product_cat Lunch
+[WARNING] Failed to import product_tag Masala
+[WARNING] Failed to import product_tag Mater
+[WARNING] Failed to import product_tag Noodles
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Paneer
+[WARNING] Failed to import product_tag Pizza
+[WARNING] Failed to import product_tag Poha
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Rice
+[WARNING] Failed to import product_tag Roasted
+[WARNING] Failed to import product_tag Sandwitch
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Soup
+[WARNING] Failed to import product_tag Tea
+[WARNING] Failed to import product_tag Thali
+[WARNING] Failed to import product_tag Tomato
+[WARNING] Failed to import product_tag Upma
+[WARNING] Failed to import product_type variable
+
+
+------
+Completed AJAX call number: 7
+[WARNING] Failed to import product_tag Beans
+[WARNING] Failed to import product_tag Bread
+[WARNING] Failed to import product_cat Break Fast
+[WARNING] Failed to import product_tag Burger
+[WARNING] Failed to import product_cat Chiness
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Donuts
+[WARNING] Failed to import product_tag Dosa
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_tag Duck
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Idli
+[WARNING] Failed to import product_tag Indian
+[WARNING] Failed to import product_cat Lunch
+[WARNING] Failed to import product_tag Masala
+[WARNING] Failed to import product_tag Mater
+[WARNING] Failed to import product_tag Noodles
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Paneer
+[WARNING] Failed to import product_tag Pizza
+[WARNING] Failed to import product_tag Poha
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Rice
+[WARNING] Failed to import product_tag Roasted
+[WARNING] Failed to import product_tag Sandwitch
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Soup
+[WARNING] Failed to import product_tag Tea
+[WARNING] Failed to import product_tag Thali
+[WARNING] Failed to import product_tag Tomato
+[WARNING] Failed to import product_tag Upma
+[WARNING] Failed to import product_type variable
+
+
+---Importing content---
+[WARNING] Failed to import product_tag Beans
+[WARNING] Failed to import product_tag Bread
+[WARNING] Failed to import product_cat Break Fast
+[WARNING] Failed to import product_tag Burger
+[WARNING] Failed to import product_cat Chiness
+[WARNING] Failed to import product_tag Coffee
+[WARNING] Failed to import product_tag Cold
+[WARNING] Failed to import product_tag Donuts
+[WARNING] Failed to import product_tag Dosa
+[WARNING] Failed to import product_tag Drink
+[WARNING] Failed to import product_cat Drinks
+[WARNING] Failed to import product_tag Duck
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Idli
+[WARNING] Failed to import product_tag Indian
+[WARNING] Failed to import product_cat Lunch
+[WARNING] Failed to import product_tag Masala
+[WARNING] Failed to import product_tag Mater
+[WARNING] Failed to import product_tag Noodles
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Paneer
+[WARNING] Failed to import product_tag Pizza
+[WARNING] Failed to import product_tag Poha
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_tag Rice
+[WARNING] Failed to import product_tag Roasted
+[WARNING] Failed to import product_tag Sandwitch
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Soup
+[WARNING] Failed to import product_tag Tea
+[WARNING] Failed to import product_tag Thali
+[WARNING] Failed to import product_tag Tomato
+[WARNING] Failed to import product_tag Upma
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "Cold Drink": Invalid post type product
+[WARNING] Failed to import "Coffee": Invalid post type product
+[WARNING] Failed to import "Soup": Invalid post type product
+[WARNING] Failed to import "Tea": Invalid post type product
+[WARNING] Failed to import "Tomato Upma": Invalid post type product
+[WARNING] Failed to import "Idli": Invalid post type product
+[WARNING] Failed to import "Poha Upma": Invalid post type product
+[WARNING] Failed to import "Bread Sandwitch": Invalid post type product
+[WARNING] Failed to import "Noodles": Invalid post type product
+[WARNING] Failed to import "Burger": Invalid post type product
+[WARNING] Failed to import "Pizza": Invalid post type product
+[WARNING] Failed to import "Donuts": Invalid post type product
+[WARNING] Failed to import "Rice And Beans": Invalid post type product
+[WARNING] Failed to import "Masala Dosa": Invalid post type product
+[WARNING] Failed to import "Indian Thali": Invalid post type product
+[WARNING] Failed to import "Muter Paneer": Invalid post type product
+[WARNING] Could not find the post parent for "V7HJ1MBGUP" (post #576)
+[WARNING] Could not find the post parent for "5BADCUBZS9" (post #597)
+[WARNING] Could not find the post parent for "V7HJ1MBGUP" (post #623)
+[WARNING] Could not find the post parent for "VJNRNBCITJ" (post #624)
+[WARNING] Could not find the post parent for "3PHUNYTF4H" (post #625)
+[WARNING] Could not find the post parent for "UAJO8SQA52" (post #626)
+[WARNING] Could not find the post parent for "RYB7CUDMDV" (post #670)
+[WARNING] Could not find the post parent for "IA7B7S9TSW" (post #679)
+[WARNING] Could not find the post parent for "5BADCUBZS9" (post #681)
+[WARNING] Could not find the post parent for "K5SKTOQN0U" (post #682)
+[WARNING] Could not find the post parent for "UGX0HQQPWI" (post #683)
+[WARNING] Could not find the post parent for "OCAUJB873X" (post #685)
+[WARNING] Could not find the post parent for "KRX6BEOKGM" (post #686)
+[WARNING] Could not find the post parent for "A2BSSMSHS0" (post #691)
+[WARNING] Could not find the post parent for "KENRYYSJRK" (post #692)
+[WARNING] Could not find the post parent for "T3JTA2VN26" (post #693)
+[WARNING] Could not find the post parent for "X76QKLPTP0" (post #694)
+[WARNING] Could not find the post parent for "08XLVPG7EY" (post #699)
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Blog Sidebar : 
+
+Buscar - No Title - Widget already exists
+Entradas recientes - No Title - Imported
+Imagen - Truly Tasty - Imported
+Categorías - No Title - Imported
+Galería - Food Gallery - Imported
+Audio - Listen Testimonial - Imported
+Archivos - No Title - Imported
+Vídeo - Our Video - Imported
+Nube de etiquetas - Tags - Imported
+Texto - Custom Text - Imported
+Imagen - Banner - Imported
+
+sidebar_woo : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_product_search - Search Product - Site does not support widget
+woocommerce_widget_cart - Cart - Site does not support widget
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_products - Latest &amp; Tasty - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_product_tag_cloud - Product tags - Site does not support widget
+Imagen - Limited Offer - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---dtdsi/after_import---
+
